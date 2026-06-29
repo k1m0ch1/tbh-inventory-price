@@ -1,0 +1,14 @@
+# generated output
+TBH_inventory.txt
+TBH_inventory.json
+tbh_market.json
+tbh_prices*.json
+*.json
+
+.venv
+# python
+__pycache__/
+*.pyc
+
+# regenerated name table (uncomment to ignore the derived artifact)
+# tbh_item_names.json

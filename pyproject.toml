@@ -1,0 +1,13 @@
+[project]
+name = "tbh-inventory"
+version = "0.1.0"
+description = "Live inventory reader for TBH: Task Bar Hero"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+names = ["UnityPy>=1.25.0"]
+
+[project.scripts]
+tbh-inventory = "tbh_inventory:main"
+tbh-dump-names = "dump_names:main"
