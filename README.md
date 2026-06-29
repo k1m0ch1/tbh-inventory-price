@@ -266,11 +266,29 @@ CSV straight from your Steam install — no manual setup.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer — this is **not a cheat**
 
-This is a **read-only** inspection tool for **your own** single-player save. It
-does not modify memory, does not edit the save file, and is not a cheat. Use it
-respectfully and within the game's terms of service.
+Let's be clear about what this tool does and doesn't do:
+
+| ❌ What it does **NOT** do | ✅ What it actually does |
+|---|---|
+| Modify the game's memory | **Read** your own inventory from RAM (read-only) |
+| Edit, inject, or decrypt the save file | Snapshot data the game has already loaded |
+| Duplicate items, spawn gold, or give any advantage | Look up the **same public Steam Market prices** anyone can browse |
+| Send inputs or automate gameplay | Print a report so you don't have to count items by hand |
+
+**In short:** it only **reads** your inventory and **fetches public market data**
+from Steam — nothing more. It gives you **zero in-game advantage**. It exists
+simply because tracking your loot and checking prices manually is tedious.
+
+It's the digital equivalent of writing down what's in your backpack on a piece of
+paper, then looking up each item's price in a catalog. Neither the game state nor
+the market is touched, altered, or influenced in any way.
+
+> 📜 **Note:** This tool only inspects **your own** single-player save, on **your
+> own** machine. It does not interact with other players, servers, or any
+> multiplayer/online component. Still — always use it respectfully and within the
+> game's Terms of Service. If the developer ever objects, I'll take this down.
 
 ## 📄 License
 
